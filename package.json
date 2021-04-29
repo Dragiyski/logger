@@ -1,7 +1,7 @@
 {
     "name": "@dragiyski/logger",
     "version": "0.0.1",
-    "description": "A simple and extensible logger",
+    "description": "git branch -M main",
     "devDependencies": {
         "@babel/eslint-parser": "^7.13.14",
         "eslint": "^7.25.0",

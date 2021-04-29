@@ -17,6 +17,12 @@ Install using `npm`:
 npm install @dragiyski/logger
 ```
 
+or
+
+```bash
+npm install git+https://github.com/Dragiyski/logger.git
+```
+
 ## Usage
 
 The logger provide several classes to facilitate different logging scenarios.
