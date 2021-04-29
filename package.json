@@ -1,0 +1,12 @@
+{
+    "name": "@dragiyski/logger",
+    "version": "0.0.1",
+    "description": "A simple and extensible logger",
+    "devDependencies": {
+        "@babel/eslint-parser": "^7.13.14",
+        "eslint": "^7.25.0",
+        "eslint-config-standard": "^16.0.2",
+        "eslint-import-resolver-node": "^0.3.4",
+        "eslint-plugin-import": "^2.22.1"
+    }
+}
