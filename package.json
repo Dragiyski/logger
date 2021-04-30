@@ -8,5 +8,9 @@
         "eslint-config-standard": "^16.0.2",
         "eslint-import-resolver-node": "^0.3.4",
         "eslint-plugin-import": "^2.22.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Dragiyski/logger.git"
     }
 }
